@@ -1,1 +1,1 @@
-<script src="http://127.0.0.1:8080/1.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/central771/centralo@main/1.js"></script>
